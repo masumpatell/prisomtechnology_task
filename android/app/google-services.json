@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "132844553939",
+    "project_id": "prisomtechnology-f690d",
+    "storage_bucket": "prisomtechnology-f690d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132844553939:android:31d9d2cb38ed58f108b626",
+        "android_client_info": {
+          "package_name": "com.example.prisomtechnology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132844553939-0lp9lvcnf2gc9vf8nd253khejk2g85hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prisomtechnology",
+            "certificate_hash": "7307a4b3ba39c738ed3da548649df4597c4b3e3c"
+          }
+        },
+        {
+          "client_id": "132844553939-tsttt5jtlrsg4ocjeeb0ghrqd10hi8lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7vGbOH56AJIEUbVPQk13q8IqbDmrgPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132844553939-svs04q8p51mv2lmnl0e417fb5ltifvch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132844553939-04pf7mfa8p4pfcbhor1llc1upa7oibjc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prisomtechnology"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
