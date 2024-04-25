@@ -52,12 +52,6 @@ class _HomeScreenState extends State<HomeScreen> with RouteAware {
     initDatabase();
   }
 
-  // @override
-  // void didPushNext() {
-  //   super.didPushNext();
-  //   print("did push");
-  // }
-
   @override
   void initState() {
     super.initState();
